@@ -2,7 +2,7 @@
 desenvolvido por [Nathally Souza](https://github.com/nathyts)
 
 #### Minha solução para o desafio Criando uma homepage com React do TypeScript da Formação TypeScript Fullstack Developer
-r
+
 ### Tecnologias
 - Typescript
 
@@ -10,7 +10,7 @@ r
 
 1 - Clone o repositório
 
-2 - Instale as dependeências
+2 - Instale as dependências
     
     npm install
 
